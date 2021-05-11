@@ -14,7 +14,7 @@ a library inspired by raylib to get working with OpenGL easily
 ## building and installing library
 for now it's only available as a shared library and for Linux. I'll be working on cross-platform compatibility.
 ```
-git clone https://github.com/mrfundkdude/fgl.git
+git clone https://github.com/mrfunkdude/fgl.git
 cd fgl/src
 chmod 700 install.sh
 make && sudo ./install
